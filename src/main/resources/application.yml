@@ -1,0 +1,5 @@
+header-processor:
+  headers:
+    first: primeiro-header
+    second: segundo-header
+    third: terceiro-header
