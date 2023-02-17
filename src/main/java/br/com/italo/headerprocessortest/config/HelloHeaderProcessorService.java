@@ -14,7 +14,7 @@ public class HelloHeaderProcessorService {
     }
 
     public String getMsg() {
-        return "Fale oi para o Ítalo e diga qual é o primeiro header: ".concat(interceptador.getFirstHeader());
+        return "Fale oi para o Ítalo e diga qual é o quarto header: " + interceptador.getFourth();
     }
 
 }

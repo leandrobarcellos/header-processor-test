@@ -1,5 +1,6 @@
 header-processor:
   headers:
-    first: primeiro-header
-    second: segundo-header
-    third: terceiro-header
+    first: primeiro-header-yml
+    second: segundo-header-yml
+    third: terceiro-header-yml
+    fourth-header: quarto-header-yml
