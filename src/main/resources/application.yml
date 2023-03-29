@@ -1,10 +1,13 @@
+
 header-processor:
   headers:
     first: primeiro-header-yml
     second: segundo-header-yml
     third: terceiro-header-yml
     fourth-header: quarto-header-yml
+    enable-timer: true
 logging:
   level:
     br: debug
-      com: info
+server:
+  port: 8081
